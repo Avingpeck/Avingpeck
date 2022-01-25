@@ -1,16 +1,12 @@
-### Hi there 👋
+# :wave: Hi there!
+My name is Nikita and I am a .net and Unity developer. I am from Russia, I live in Murmansk and now I study at the Murmansk Arctic State University. At the same time, I work at the indie studio Zalab Gaming.
 
-<!--
-**Avingpeck/Avingpeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :notes: Music Public
+Apart from coding, I also write electronic music - you can find my music at [finchesbeats.](https://vk.com/finchesbeats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :wrench: Technologies & Tools
+![](https://img.shields.io/badge/OS-Windows-blue) ![](https://img.shields.io/badge/Editor-VS%20Code-blue) ![](https://img.shields.io/badge/Code-C%23-blue) ![](https://img.shields.io/badge/Game%20Engine-Unity-blue) ![](https://img.shields.io/badge/Board-Miro-blue)
+_______
+![](https://steamuserimages-a.akamaihd.net/ugc/1478822817365516699/CE145C25D89755B4126A4175C23B647A057047EF/?imw=1024&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+_______
+![](https://img.shields.io/github/stars/Peopl3s?label=Respect&style=social)
