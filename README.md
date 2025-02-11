@@ -1,5 +1,9 @@
 # :wave: Hi there!
-My name is Evgeniy and I am a ASP.NET & C# developer. I am from Russia, I am engaged in the creation of mobile games.
+My name is Nikita and I am a ASP.NET & Unity developer. I am from Russia, I live in Murmansk and now I study at the Murmansk Arctic State University. At the same time, I work at the indie studio Zalab Gaming.
+My name is Nikita and I am a ASP.NET & C# developer. I am from Russia, I am engaged in the creation of mobile games and the development of tasks in the framework of theory and programming in constraints.
+
+## :notes: Music Public
+Apart from coding, I also write electronic music - you can find my music at [finchesbeats.](https://vk.com/finchesbeats)
 
 ## :wrench: Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-blue) ![](https://img.shields.io/badge/Editor-VS%20Code-blue) ![](https://img.shields.io/badge/Code-C%23-blue) ![](https://img.shields.io/badge/Game%20Engine-Unity-blue) ![](https://img.shields.io/badge/Board-Miro-blue)
