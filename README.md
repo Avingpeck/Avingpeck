@@ -1,5 +1,4 @@
 # :wave: Hi there!
-My name is Nikita and I am a ASP.NET & Unity developer. I am from Russia, I live in Murmansk and now I study at the Murmansk Arctic State University. At the same time, I work at the indie studio Zalab Gaming.
 My name is Nikita and I am a ASP.NET & C# developer. I am from Russia, I am engaged in the creation of mobile games and the development of tasks in the framework of theory and programming in constraints.
 
 ## :notes: Music Public
